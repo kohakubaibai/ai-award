@@ -1,4 +1,5 @@
 (function($) {
+    var allfunction = {
         //============== Menu Icon ============== 
         menu_icon: function() {
             $('.main-menu ul li').each(function() {
